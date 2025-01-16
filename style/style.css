@@ -1,0 +1,118 @@
+.body{
+  background-color: #e5c4cb;
+  display: flex;
+height: 500px;
+border: 100px;
+border-radius: 30px;
+}
+.body-sub{
+  padding: 30px;
+  margin-left: 200px;
+  width: 400px;
+  margin-right: 100px;
+  
+}
+img{
+ 
+  
+}
+.btn{
+  background-color:#E55473 ;
+  color: #FFFFFF;
+  border-radius: 2px;
+  padding: 5px;
+}
+.center{
+ 
+  
+  background-color: #E55473;
+  
+}
+
+.middle{
+  text-align: center;
+}
+.photo{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  height: 450px;
+  
+  margin-left: 200px;
+  margin-right: 200px;
+ 
+}
+.photo1{
+  background-color: #646061;
+   border-radius: 300px 300px 0px 0px;
+  padding-top: 50px; 
+  
+
+}
+.photo2{ 
+  background-color: #272324;
+   border-radius: 300px 300px 0px 0px;
+  padding-top: 50px; 
+  
+}
+.photo3{background-color: rgb(50, 50, 46);
+  border-radius: 300px 300px 0px 0px;
+  padding-top: 50px; 
+}
+.root{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 100px;
+  height: 300px;
+  background-color: #e5c4cb;
+  margin-right: 300px; 
+  margin-left: 300px;
+  padding: 30px;
+  height: 150px;
+  
+  
+}
+.glass{
+  display: flex;
+  justify-content: center;
+  background-color: #d8b7be;
+ height: 600px;
+ 
+ margin-top: 30px;
+}
+.text{
+  padding: 100px;
+  margin-top: 100px;
+  
+}
+.bton {
+  background-color: #E55473;
+  border-radius: 10px;
+  padding: 10px;
+}
+.image{
+  
+}
+.insta{
+  text-align: center;
+}
+.image-logo{
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+.footer{
+  background-image:url(../Rectangle\ 9.png);
+  height: 500px;
+  padding: 50px;
+  background-repeat: no-repeat;
+text-align: center;
+ margin-top: 100px
+}
+.inline{
+  justify-content: center;
+  padding: 100px;
+
+  flex-direction:auto;
+}
